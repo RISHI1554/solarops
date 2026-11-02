@@ -1,0 +1,6 @@
+{
+  "name": "SolarOps - Solar Energy Installation & Billing Management System",
+  "description": "Comprehensive Solar Energy Installation and Billing Management platform with customer tracking, 7-stage installation tracker, PM Surya Ghar subsidy management, EMI billing, technician workflow, and admin operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
